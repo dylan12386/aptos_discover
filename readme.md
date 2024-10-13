@@ -1,3 +1,5 @@
+ChainMark is a blockchain-based decentralized data annotation platform designed to offer businesses and academic institutions a transparent, safe, and trustworthy data annotation system. ChainMark employs smart contracts to autonomously distribute data annotation duties to members of the aptos blockchain community. To encourage participation and guarantee data efficiency and quality, a token incentive structure is employed.
+
 ChainMark 是一個基於區塊鏈技術的去中心化數據標註平台，旨在為企業和研究機構提供一個安全、透明、去信任化的數據標註解決方案。通過智能合約，ChainMark 將數據標註任務自動分配給全球的區塊鏈社區成員，並使用代幣激勵系統促進參與，確保數據質量和效率。
 
 核心功能：
