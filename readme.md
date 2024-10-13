@@ -1,4 +1,4 @@
-
+ChainMark is a blockchain-based decentralized data annotation platform designed to offer businesses and academic institutions a transparent, safe, and trustworthy data annotation system. ChainMark employs smart contracts to autonomously distribute data annotation duties to members of the aptos blockchain community. To encourage participation and guarantee data efficiency and quality, a token incentive structure is employed.
 
 Supervised learning is one of the methods to retain AI, but before training it, we need to have a data set that already marks up all answers to the question for AI to learn about. But who did this "markup" process? Our aptos ChainMark is allowing organizations to upload the data set, and we ask our aptos community to help us to mark up those questions and answers.
 
